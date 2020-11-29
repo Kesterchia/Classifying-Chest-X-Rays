@@ -1,3 +1,8 @@
+<img 
+     src="https://github.com/Kesterchia/Classifying-Chest-X-Rays/blob/main/Pictures/train/covid-19/01E392EE-69F9-4E33-BFCE-E5C968654078.jpeg?raw=True" 
+     alt="Drawing" 
+     style="width: 600px;"/>
+
 # About this project:
 
 This project aims to train a neural network model to identify the presence of COVID-19 from images of Chest X-Rays. A model that works well would be useful for accelerating the identification of infected individuals, especially in countries where hospitals are overwhelmed and can benefit from streamlining the testing process.
