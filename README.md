@@ -1,7 +1,7 @@
 <img 
-     src="https://github.com/Kesterchia/Classifying-Chest-X-Rays/blob/main/Pictures/train/covid-19/01E392EE-69F9-4E33-BFCE-E5C968654078.jpeg?raw=True" 
+     src="https://github.com/Kesterchia/Classifying-Chest-X-Rays/blob/main/Pictures/train/covid-19/1-s2.0-S0140673620303706-fx1_lrg.jpg?raw=True" 
      alt="Drawing" 
-     style="width: 600px;"/>
+     style="width: 300px;"/>
 
 # About this project:
 
